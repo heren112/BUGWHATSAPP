@@ -1,0 +1,44 @@
+[03:50:29] [Client thread/INFO]: Setting user: andresarie83@gmail.com 
+[03:50:29] [Client thread/INFO]: (Session ID is token:0:0)
+[03:50:40] [Client thread/INFO]: LWJGL Version: 3.2.3 SNAPSHOT
+[03:50:42] [Client thread/INFO]: Reloading ResourceManager: Default
+[03:50:42] [Client thread/ERROR]: Couldn't initialize twitch stream
+[03:50:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[03:50:43] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[03:50:43] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[03:50:43] [Thread-6/INFO]: OpenAL initialized.
+[03:50:43] [Sound Library Loader/INFO]: Sound engine started
+[03:50:50] [Client thread/INFO]: Created: 512x512 textures-atlas
+[03:50:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[03:50:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:50:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[03:51:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[03:51:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:51:38] [Client thread/INFO]: Connecting to play.ultimismc.com, 25565
+[03:51:39] [Client thread/INFO]: Connecting to play.ultimismc.com, 25565
+[03:51:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:52:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:52:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:53:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:53:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:53:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:53:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:54:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:54:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:54:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:54:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:54:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:55:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:55:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:55:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:55:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:56:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:56:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:56:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:57:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:57:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:58:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:58:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:58:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu

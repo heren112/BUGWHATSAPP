@@ -1,0 +1,228 @@
+--------- beggining with launcher debug
+Info: LWJGL3 directory: [jsr305.jar, lwjgl-glfw-classes.jar, lwjgl-jemalloc.jar, lwjgl-openal.jar, lwjgl-opengl.jar, lwjgl-stb.jar, lwjgl-tinyfd.jar, lwjgl.jar, version]
+Architecture: arm/aarch32
+Info: Custom Java arguments: "-Xms512m -Xmx800m"
+Headless version detected! (20151203)
+--------- beginning of system
+--------- beginning of main
+I/jrelog  ( 3231): Starting logging STDIO as jrelog:V
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/jli/libjli.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/jli/libjli.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/client/libjvm.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libverify.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libverify.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjava.so" has unsupported flags DT_FLAGS_1=0x81
+I/jrelog  ( 3231):  (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjava.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnet.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnet.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnio.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnio.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libawt.so" has unsupported flags DT_FLAGS_1=0x81
+I/jrelog  ( 3231):  (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libawt.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libawt_headless.so" has unsupported flags DT_FLAGS_1=
+I/jrelog  ( 3231): 0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libawt_headless.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libfreetype.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libfontmanager.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libfontmanager.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libhprof.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libhprof.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libfontmanager.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libj2pcsc.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libj2pcsc.so success
+I/jrelog  ( 3231): WARNING: linker: 
+I/jrelog  ( 3231): Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libdt_socket.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libdt_socket.so success
+I/jrelog  ( 3231): WARNING: linker: 
+I/jrelog  ( 3231): Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/liblcms.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/liblcms.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libverify.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libmanagement.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libmanagement.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjpeg.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjpeg.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libmlib_image.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libmlib_image.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjsig.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjsdt.so
+I/jrelog  ( 3231): " has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjsdt.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libawt_headless.so success
+I/jrelog  ( 3231): WARNING: linker: 
+I/jrelog  ( 3231): Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libj2pkcs11.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libj2pkcs11.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnet.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjava.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjsound.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjsound.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libsunec.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libawt.so success
+I/jrelog  ( 3231): WARNING: linker: 
+I/jrelog  ( 3231): Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libj2gss.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libj2gss.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libunpack.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libunpack.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libfreetype.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnpt.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libtinyiconv.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnpt.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjava_crw_demo.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjava_crw_demo.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libnio.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libawt_xawt.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/client/libjvm.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libtinyiconv.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libzip.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libzip.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjawt.so
+I/jrelog  ( 3231): " has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjawt.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjaas_unix.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjaas_unix.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libsctp.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libsctp.so success
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/jli/libjli.so success
+I/jrelog  ( 3231): WARNING: linker: Warning: "
+I/jrelog  ( 3231): /data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjdwp.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libjdwp.so success
+I/jrelog  ( 3231): WARNING: linker: 
+I/jrelog  ( 3231): Warning: "/data/data/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libinstrument.so" has unsupported flags DT_FLAGS_1=0x81 (ignoring unsupported flags)
+I/jrelog  ( 3231): dlopen /data/user/0/net.kdt.pojavlaunch/jre_runtime/lib/aarch32/libinstrument.so success
+I/jrelog  ( 3231): dlopen /data/app/net.kdt.pojavlaunch-khjtx7BT_NBROXZ-afw68Q==/lib/arm/libopenal.so success
+I/jrelog  ( 3231): dlopen /data/app/net.kdt.pojavlaunch-khjtx7BT_NBROXZ-afw68Q==/lib/arm/libgl04es.so success
+I/jrelog  ( 3231): Done processing args
+I/jrelog  ( 3231): Found JLI lib
+I/jrelog  ( 3231): Calling JLI_Launch
+I/jrelog  ( 3231): OpenJDK Client VM warning: No monotonic clock was available - timed services may be adversely affected if the time-of-day clock changes
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): [LWJGL] Failed to load a library. Possible solutions:
+I/jrelog  ( 3231): 	a) Add the directory that contains the shared library to -Djava.library.path or -Dorg.lwjgl.librarypath.
+I/jrelog  ( 3231): 	b) Add the JAR that contains the shared library to the classpath.
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): [LWJGL] Enable debug mode with -Dorg.lwjgl.util.Debug=true for better diagnostics.
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): [LWJGL] Enable the SharedLibraryLoader debug mode with -Dorg.lwjgl.util.DebugLoader=true for better diagnostics.
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): [03:50:29] [Client thread/INFO]: Setting user: andresarie83@gmail.com 
+I/jrelog  ( 3231): [03:50:29] [Client thread/INFO]: (Session ID is token:0:0)
+I/jrelog  ( 3231): [03:50:40] [Client thread/INFO]: LWJGL Version: 3.2.3 SNAPSHOT
+I/jrelog  ( 3231): EGLBridge: Initializing
+I/jrelog  ( 3231): EGLBridge: Initialized!
+I/jrelog  ( 3231): EGLBridge: ThreadID=3589
+I/jrelog  ( 3231): EGLBridge: EGLDisplay=0x1, EGLSurface=0xb9ea11c0
+I/jrelog  ( 3231): Created CTX pointer = 0xe0ac4880
+I/jrelog  ( 3231): java.lang.Exception: Trace exception
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.glfw.GLFW.glfwMakeContextCurrent(GLFW.java:948)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.opengl.Display.create(Display.java:416)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.opengl.Display.<clinit>(Display.java:89)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.ar(SourceFile:560)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.am(SourceFile:361)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.a(SourceFile:310)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at net.minecraft.client.main.Main.main(SourceFile:124)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): Making current on window 0xffffffff
+I/jrelog  ( 3231): Making current on window 0xffffffff
+I/jrelog  ( 3231): Grab: false
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): java.lang.NullPointerException
+I/jrelog  ( 3231): 	at org.lwjgl.system.Pointer$Default.<init>(Pointer.java:88)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.system.CustomBuffer.<init>(CustomBuffer.java:25)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.system.StructBuffer.<init>(StructBuffer.java:20)
+I/jrelog  ( 3231): 	at org.lwjgl.glfw.GLFWImage$Buffer.<init>(GLFWImage.java:325)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.opengl.Display.setIcon(Display.java:944)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.ar(SourceFile:560)
+I/jrelog  ( 3231): 	at ave.am(SourceFile:361)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.a(SourceFile:310)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at net.minecraft.client.main.Main.main(SourceFile:124)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): LWJGLX: switch fullscreen to true
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): Created CTX pointer = 0xbccfe180
+I/jrelog  ( 3231): java.lang.Exception: Trace exception
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.glfw.GLFW.glfwMakeContextCurrent(GLFW.java:948)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.opengl.Display.create(Display.java:416)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at org.lwjgl.opengl.Display.create(Display.java:267)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.ap(SourceFile:521)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.am(SourceFile:363)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at ave.a(SourceFile:310)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): 	at net.minecraft.client.main.Main.main(SourceFile:124)
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): Making current on window 0xffffffff
+I/jrelog  ( 3231): [03:50:42] [Client thread/INFO]: Reloading ResourceManager: Default
+I/jrelog  ( 3231): If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+I/jrelog  ( 3231): 
+I/jrelog  ( 3231): [03:50:42] [Client thread/ERROR]: Couldn't initialize twitch stream
+I/jrelog  ( 3231): [03:50:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+I/jrelog  ( 3231): [03:50:43] [Thread-6/INFO]: Initializing LWJGL OpenAL
+I/jrelog  ( 3231): [03:50:43] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+I/jrelog  ( 3231): [ALSOFT] (EE) Failed to set real-time priority for thread: Operation not permitted (1)
+I/jrelog  ( 3231): [03:50:43] [Thread-6/INFO]: OpenAL initialized.
+I/jrelog  ( 3231): [03:50:43] [Sound Library Loader/INFO]: Sound engine started
+I/jrelog  ( 3231): [03:50:50] [Client thread/INFO]: Created: 512x512 textures-atlas
+I/jrelog  ( 3231): [03:50:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+I/jrelog  ( 3231): [03:50:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:50:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+I/jrelog  ( 3231): [03:51:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+I/jrelog  ( 3231): OpenJDK Client VM warning: You have loaded library /data/data/net.kdt.pojavlaunch/cache/libnetty-transport-native-epoll492244221698323722.so which might have disabled stack guard. The VM will try to fix the stack guard now.
+I/jrelog  ( 3231): It's highly recommended that you fix the library with 'execstack -c <libfile>', or link it with '-z noexecstack'.
+I/jrelog  ( 3231): [03:51:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:51:38] [Client thread/INFO]: Connecting to play.ultimismc.com, 25565
+I/jrelog  ( 3231): [03:51:39] [Client thread/INFO]: Connecting to play.ultimismc.com, 25565
+I/jrelog  ( 3231): [03:51:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:52:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:52:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:53:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:53:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:53:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:53:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:54:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:54:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:54:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:54:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:54:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:55:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:55:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:55:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:55:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:56:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:56:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:56:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:57:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:57:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:58:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:58:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:58:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+I/jrelog  ( 3231): [03:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
